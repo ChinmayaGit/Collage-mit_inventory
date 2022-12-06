@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "626734697226",
+    "project_id": "inventory-aa13f",
+    "storage_bucket": "inventory-aa13f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626734697226:android:86e5dadf17bee2d70188f3",
+        "android_client_info": {
+          "package_name": "com.mitwpu.mitwpuinventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626734697226-vn83b7qskrf8j90jh4dd4upp1r7ovpc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe2CIRwDPjmgBduV6OhzMRMYgT-LVeE1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626734697226-vn83b7qskrf8j90jh4dd4upp1r7ovpc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
